@@ -38,7 +38,7 @@ class Democalculator implements Calculator{
 	public void mul()
 	{
 		System.out.println("The multiplication of two numbers are:");
-		int m= num1*num2;
+		int m=num1*num2;
 		System.out.println(m);
 	}
 	public void div()
