@@ -3,7 +3,7 @@ public class Driver {
         Triangle t1=new Triangle(12.0,6.0);
         System.out.println("Area of Triangle : "+t1.getArea());
         Rectangle r1=new Rectangle(20.0,30.0);
-        System.out.println("Area of Rectangle : "+r1.getArea());
+        System.out.println("Area of  Rectangle : "+r1.getArea());
     }
 }
 abstract class GeometricFigure{
