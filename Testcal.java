@@ -18,7 +18,7 @@ class Testcal{
 }
 class Democalculator implements Calculator{
 	int num1,num2;
-	Democalculator(int a ,int b)
+	Democalculator(int a,int b)
 	{
 		num1=a;
 		num2=b;
