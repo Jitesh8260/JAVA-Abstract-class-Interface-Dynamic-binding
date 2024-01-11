@@ -1,4 +1,4 @@
-
+//Write a Java program to implement a calculator using interface 
 import java.util.*;
 class Testcal{
 	public static void main(String args[])
